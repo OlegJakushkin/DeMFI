@@ -5,7 +5,6 @@ pandas==0.25.1
 Pillow
 scikit-image
 six
-python-skimage
 tensorboardX
 torch
 torchinfo
